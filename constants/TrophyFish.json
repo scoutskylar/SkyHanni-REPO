@@ -12,7 +12,7 @@
       }
     },
     "obfuscatedfish1": {
-      "displayName": "§fObfuscated 1",
+      "displayName": "§fObfuscated-1",
       "description": "§7Caught with Corrupted Bait.",
       "rate": 25,
       "fillet": {
@@ -34,8 +34,8 @@
       }
     },
     "obfuscatedfish2": {
-      "displayName": "§aObfuscated 2",
-      "description": "§7Caught with §fObfuscated 1 §7bait.",
+      "displayName": "§aObfuscated-2",
+      "description": "§7Caught with §fObfuscated-1 §7bait.",
       "rate": 20,
       "fillet": {
         "bronze": 40,
@@ -78,8 +78,8 @@
       }
     },
     "obfuscatedfish3": {
-      "displayName": "§9Obfuscated 3",
-      "description": "§7Caught with §aObfuscated 2 §7bait.",
+      "displayName": "§9Obfuscated-3",
+      "description": "§7Caught with §aObfuscated-2 §7bait.",
       "rate": 10,
       "fillet": {
         "bronze": 400,
